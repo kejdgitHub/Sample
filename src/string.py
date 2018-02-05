@@ -14,3 +14,7 @@ b = 'ab'
 ab = '我ab'
 
 print(len(a), len(b), len(ab), len('='))
+
+
+def obj_len(obj):
+    return len(obj)
